@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Kharbas01/Leet-codes/tree/master/0860-lemonade-change) |
 | [1046-last-stone-weight](https://github.com/Kharbas01/Leet-codes/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kharbas01/Leet-codes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Kharbas01/Leet-codes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Kharbas01/Leet-codes/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Kharbas01/Leet-codes/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kharbas01/Leet-codes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Kharbas01/Leet-codes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -113,4 +115,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0860-lemonade-change](https://github.com/Kharbas01/Leet-codes/tree/master/0860-lemonade-change) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Kharbas01/Leet-codes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
