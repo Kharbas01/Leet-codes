@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Kharbas01/Leet-codes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kharbas01/Leet-codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kharbas01/Leet-codes/tree/master/0215-kth-largest-element-in-an-array) |
+| [0287-find-the-duplicate-number](https://github.com/Kharbas01/Leet-codes/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Kharbas01/Leet-codes/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Kharbas01/Leet-codes/tree/master/0496-next-greater-element-i) |
 | [0860-lemonade-change](https://github.com/Kharbas01/Leet-codes/tree/master/0860-lemonade-change) |
@@ -18,12 +19,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kharbas01/Leet-codes/tree/master/0005-longest-palindromic-substring) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kharbas01/Leet-codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Kharbas01/Leet-codes/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Kharbas01/Leet-codes/tree/master/0295-find-median-from-data-stream) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kharbas01/Leet-codes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kharbas01/Leet-codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Kharbas01/Leet-codes/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -116,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0860-lemonade-change](https://github.com/Kharbas01/Leet-codes/tree/master/0860-lemonade-change) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Kharbas01/Leet-codes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Kharbas01/Leet-codes/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
