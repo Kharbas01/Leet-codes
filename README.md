@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Kharbas01/Leet-codes/tree/master/0860-lemonade-change) |
 | [1046-last-stone-weight](https://github.com/Kharbas01/Leet-codes/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kharbas01/Leet-codes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/Kharbas01/Leet-codes/tree/master/1470-shuffle-the-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Kharbas01/Leet-codes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/Kharbas01/Leet-codes/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
