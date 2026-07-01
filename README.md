@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Kharbas01/Leet-codes/tree/master/1470-shuffle-the-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Kharbas01/Leet-codes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/Kharbas01/Leet-codes/tree/master/1929-concatenation-of-array) |
+| [3477-fruits-into-baskets-ii](https://github.com/Kharbas01/Leet-codes/tree/master/3477-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Kharbas01/Leet-codes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kharbas01/Leet-codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Kharbas01/Leet-codes/tree/master/0287-find-the-duplicate-number) |
+| [3477-fruits-into-baskets-ii](https://github.com/Kharbas01/Leet-codes/tree/master/3477-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -129,4 +131,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Kharbas01/Leet-codes/tree/master/1929-concatenation-of-array) |
+| [3477-fruits-into-baskets-ii](https://github.com/Kharbas01/Leet-codes/tree/master/3477-fruits-into-baskets-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/Kharbas01/Leet-codes/tree/master/3477-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/Kharbas01/Leet-codes/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
